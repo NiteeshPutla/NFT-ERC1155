@@ -1,0 +1,23 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+.card{
+  box-Shadow: 0px 8px 40px -12px rgba(0,0,0,0.3),
+}
+.card:hover{
+  box-Shadow: 0px 16px 70px -125px rgba(0,0,0,0.3);
+
+}
